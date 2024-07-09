@@ -175,6 +175,7 @@ nav ul button{
     font-size: 2rem;
     font-weight: 800;
     color: var(--text-color);
+    text-shadow: 0px 2px 8px rgb(0, 0, 0,0.2);
 }
 .vedio-content p{
     color: var(--second-text-color);
@@ -215,7 +216,9 @@ nav ul button{
 .target-section-content h2{
     font-size: 2rem;
     font-weight: 700;
+    text-shadow: 0px 2px 8px rgb(0, 0, 0,0.2);
 }
+
 .target-section-content p{
     color: var(--second-text-color);
     font-size: 1rem;
@@ -265,3 +268,57 @@ nav ul button{
     background-color: #FFFDF2;
 }
 /* ==================CURRENT TARGET SECTION END HERE================ */
+
+/* ==================MY NEXT TARGET SECTION START HERE================ */
+.next-target-section{
+    width: 1140px;
+    height: 866px;
+    margin: 0 auto;
+}
+.next-target-content{
+    text-align: center;
+}
+.next-target-content h2{
+    font-size: 2rem;
+    font-weight: 800;
+    color: var(--text-color);
+    text-shadow: 0px 2px 8px rgb(0, 0, 0,0.2);
+}
+.next-target-content p{
+    color: var(--second-text-color);
+    font-size: 1rem;
+    font-weight: 400;
+    margin: 1.2rem 0;
+}
+.next-target-item img{
+    width: 100px;
+    height: 85px;
+
+}
+.next-target-item{
+    height: 219px;
+    width: 1140px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 1rem;
+    display: flex;
+    align-items: center;
+    padding: 2.5rem;
+    gap: 3rem;
+    margin-top: 2rem;
+}
+.next-target-item h3{
+    font-size: 1.4rem;
+    font-weight: 800;
+}
+.next-target-item p{
+    color: var(--second-text-color);
+    font-size: 1rem;
+    font-weight: 400;
+    margin:1rem 0;
+}
+.next-target-item a{
+    color: var(--text-color);
+    font-weight: 700;
+    font-size: 1rem;
+    text-decoration: underline 2px;
+}
