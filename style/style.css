@@ -88,8 +88,8 @@ nav ul button{
 
 /* ====================WEB DEVELOPMENT SECTION START HERE====================== */
 .web-development-section{
-    width: 946px;
-    height: 1235px;
+    width: 1140px;
+    height: 1395px;
     margin: 4rem auto;
     background-color: var(--bg-secondary-color);
     border-radius: 1rem;
@@ -112,8 +112,8 @@ nav ul button{
     margin-top: 1rem;
 }
 .learn-more-cart-section{
-    width: 850px;
-    height: 290px;
+    width: 946px;
+    height: 336px;
     margin: 2.8rem auto;
     display: flex;
     align-items: center;
@@ -136,7 +136,8 @@ nav ul button{
     font-size: 1rem;
     font-weight: 400;
     color: var(--second-text-color);
-    margin: 1rem  0;
+    margin: 1.5rem  0;
+    line-height: 1.8rem;
 }
 .learn-more{
     padding: .8rem 1.8rem;
@@ -156,3 +157,12 @@ nav ul button{
     padding-left: 3rem;
 }
 /* ====================WEB DEVELOPMENT SECTION END HERE====================== */
+
+/* ==================VEDION SECTION START HERE================ */
+
+.vedio-section{
+    width: 1140px;
+    height: 600px;
+    border: 1px solid;
+    margin: 0 auto;
+}
