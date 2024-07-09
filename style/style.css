@@ -198,3 +198,70 @@ nav ul button{
     border-radius: 1rem;
 }
 /* ==================VEDION SECTION end HERE================ */
+
+/* ==================CURRENT TARGET SECTION START HERE================ */
+
+.current-target-section{
+    width: 1140px;
+    height: 480px;
+    margin: 5rem auto;
+}
+.target-section-content{
+    width: 900px;
+    height: 150px;
+    margin: 0 auto;
+    text-align: center;
+}
+.target-section-content h2{
+    font-size: 2rem;
+    font-weight: 700;
+}
+.target-section-content p{
+    color: var(--second-text-color);
+    font-size: 1rem;
+    font-weight: 400;
+    margin: 1.5rem 0;
+}
+.current-target-items{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.current-target-item{
+    width: 364px;
+    height: 259px;
+    border-radius: 1rem;
+    margin-top: 2rem;
+    padding: 2.5rem;
+}
+.current-target-item h4{
+    font-size: 1.2rem;
+    color: var(--text-color);
+    font-weight: 700;
+    margin-top: .8rem;
+}
+.current-target-item p{
+    color: var(--second-text-color);
+    font-size: 1rem;
+    font-weight: 400;
+    margin-top: 1rem;
+}
+.current-target-item a{
+    margin-top: 1rem;
+    display: inline-flex;
+    color: var(--text-color);
+    font-weight: 700;
+    font-size: 1rem;
+    text-decoration: underline 2px;
+}
+.current-target-item{
+    background-color: #FFF6F4;
+}
+.current-target-item:nth-child(2){
+    background-color: #f2f6fe;
+}
+.current-target-item:nth-child(3){
+    background-color: #FFFDF2;
+}
+/* ==================CURRENT TARGET SECTION END HERE================ */
