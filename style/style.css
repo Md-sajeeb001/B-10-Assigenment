@@ -46,6 +46,8 @@ nav ul button{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    border-top: dashed rgba(184, 183, 183, 0.767) 2px;
+    border-bottom: 2px dashed rgba(184, 183, 183, 0.767);
 }
 .banner-content{
     width: 998px;
