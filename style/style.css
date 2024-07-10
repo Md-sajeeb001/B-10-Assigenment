@@ -142,7 +142,7 @@ nav ul button{
     line-height: 1.8rem;
 }
 .learn-more{
-    padding: .8rem 1.8rem;
+    padding: .7rem 1.6rem;
     font-size: 1.1rem;
     font-weight: 500;
     border: 1px solid rgb(13, 19, 33);
@@ -152,6 +152,7 @@ nav ul button{
 }
 .learn-more a{
     color: var(--second-text-color);
+    word-spacing: 2px;
 }
 /* =====================EXTRA CSS STYLE==================== */
 .background{
