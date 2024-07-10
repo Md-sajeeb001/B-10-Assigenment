@@ -322,3 +322,69 @@ nav ul button{
     font-size: 1rem;
     text-decoration: underline 2px;
 }
+/* ==================MY NEXT TARGET SECTION END HERE================ */
+/* ==================BACKGROUND IMAGE SECTION START HERE================ */
+.background-image-section{
+    width: 1140px;
+    height: 313px;
+    border: 1px solid;
+    margin: 2rem auto;
+    background:linear-gradient(180deg, rgb(0, 0, 0,0.8),transparent, rgb(0, 0, 0,0.8)) ,url('../assets/handshake.jpg');
+    background-size: cover;
+    background-position: center;
+    border-radius: 1rem;
+    text-align: center;
+    color: #fff;
+}
+.background-image-section h2{
+    margin-top: 64px;
+    font-size: 2rem;
+    font-weight: 700;
+    text-shadow: 0px 2px 8px rgba(255, 255, 255, 0.2);
+
+}
+.background-image-section p{
+    color: rgba(230, 230, 230, 0.945);
+    font-size: 1rem;
+    font-weight: 400;
+    margin-top: .8rem;
+}
+.input-section{
+    margin: 2rem auto;
+    width: 660px;
+    height: 80px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.Suggest-input{
+    width: 548px;
+    height: 57px;
+    padding: 1.5rem;
+    border-radius: .4rem;
+}
+.submit-input{
+    height: 57px;
+    width: 100px;
+    font-weight: 600;
+    font-size: 1rem;
+    border-radius: .4rem;
+}
+/* ==================BACKGROUND IMAGE SECTION START HERE================ */
+
+/* ==================FOOTER SECTION START HERE================ */
+
+.footer-section{
+    width: 1348px;
+    height: 100px;
+    margin-top: 6rem;
+    background: rgba(13, 19, 33, 0.03);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 6rem;
+}
+.social-media a{
+    margin-left: 1.5rem;
+}
+/* ==================FOOTER SECTION END HERE================ */
